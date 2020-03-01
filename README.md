@@ -1,6 +1,6 @@
 # Hosted on Github pages
 
-URL: https://github.com/alifa20/swm
+URL: https://alifa20.github.io/swm/
 
 # Getting Started
 
