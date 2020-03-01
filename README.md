@@ -51,6 +51,7 @@ Create a responsive card component that looks like the attached composite image 
 ## Solution info
 
 In this solution we are organizing Card component in its own individual folder. Any related components, styles, tests, mocks and snapshot tests will be packaged into that specific folder. This will make it easier for future to reuse the component as well. If time wasn't a contraint, one solution would be publish this component as an npm module. Another thing that could have been used was storybook to design the component in an isolated environment rather than the main App.tsx.
+Also at the moment 4 images are mocked for the Card component. There can be an api that this images be loaded from.
 
 ## Links
 
